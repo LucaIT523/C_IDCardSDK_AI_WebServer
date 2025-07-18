@@ -173,6 +173,8 @@ For any inquiries or questions, please contact us.
 
 telegram : @topdev1012
 
+Slack : https://join.slack.com/t/itdev-mmb2180/shared_invite/zt-39i8dqctx-W6Rx4nufnLLPqarxActL9Q
+
 email :  skymorning523@gmail.com
 
 Teams :  https://teams.live.com/l/invite/FEA2FDDFSy11sfuegI
